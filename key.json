@@ -1,6 +1,12 @@
 {
-  "valid_keys": [
-    "AlwaysFaxzVip999",
-    "Fxz"
+  "users": [
+    {
+      "username": "faxz",
+      "password": "roomwangi01"
+    },
+    {
+      "username": "admin",
+      "password": "viponly"
+    }
   ]
 }
